@@ -1,5 +1,1 @@
-from time import sleep
-
-while True:
-    print('Hello World')
-    sleep(60)
+print('Hello World')
